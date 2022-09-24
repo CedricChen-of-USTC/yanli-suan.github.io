@@ -11,8 +11,7 @@ layout: homepage
 
 - **Primary:** Risk management, Consumer Psychology
 - **Secondary:** Online Communication, Social Media Behavior
- 
-<br>
+
 <font color=red> I am looking for a postdoc or research fellow position in the SG. I would appreciate a ping if you see a job I might fit. </font> 
 <br/>
 
