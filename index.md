@@ -14,7 +14,6 @@ layout: homepage
 
 <font color=red> I am looking for a postdoc or research fellow position in the SG. I would appreciate a ping if you see a job I might fit. </font> 
 <br/>
-
 ## Publications
 
 - "The influence of font scale on semantic expression of word cloud," (with Jie Li, Kang Zhang).
